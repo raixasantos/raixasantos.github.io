@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1539855765
+#1540448119
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,12 @@ images/nuvem-sheet0.png
 images/paredegelo-sheet0.png
 images/sky-sheet0.png
 images/iglu-sheet0.png
+images/arvore-sheet0.png
+images/fundo_venceu-sheet0.png
+images/mortinho-sheet0.png
+images/portal-sheet0.png
+images/solo_complemento-sheet0.png
+images/vidainimiga-sheet0.png
 images/logo-sheet0.png
 images/iniciar-sheet0.png
 images/nomedojogo-sheet0.png
@@ -34,13 +40,22 @@ images/retornar-sheet0.png
 images/personagem-sheet0.png
 images/p_animado-sheet0.png
 images/p_animado-sheet1.png
-images/portal-sheet0.png
-images/solo_complemento-sheet0.png
+images/coisa1-sheet0.png
+images/coisa2-sheet0.png
+images/coisa3-sheet0.png
 media/click.m4a
 media/click.ogg
 media/fadex%20-%20truecolor%20alchemist%20[jompamusic%20release]-(2)%20(online-audio-converter.com).ogg
 media/happy.ogg
 media/song18.ogg
+media/win%20music%203.m4a
+media/win%20music%203.ogg
+media/386621__jalastram__sfx-jump-44.m4a
+media/386621__jalastram__sfx-jump-44.ogg
+media/150137__gregsmedia__gun-shot-sound-01.m4a
+media/150137__gregsmedia__gun-shot-sound-01.ogg
+media/stop.m4a
+media/stop.ogg
 icon-16.png
 icon-32.png
 icon-114.png
