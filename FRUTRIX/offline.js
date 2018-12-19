@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544472262,
+	"version": 1545240758,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,7 +19,6 @@
 		"images/touch_ani-sheet0.png",
 		"images/touch_ani-sheet1.png",
 		"images/btn_menu_play-sheet0.png",
-		"images/btn_voltar-sheet0.png",
 		"images/btn_play_game-sheet0.png",
 		"images/particles2.png",
 		"images/sprite4-sheet0.png",
@@ -28,7 +27,7 @@
 		"images/btn_sound-sheet0.png",
 		"images/btn_sound-sheet1.png",
 		"images/sprite5-sheet0.png",
-		"images/sprite6-sheet0.png",
+		"images/sfundo-sheet0.png",
 		"media/pop.m4a",
 		"media/pop.ogg",
 		"media/trumpet.m4a",

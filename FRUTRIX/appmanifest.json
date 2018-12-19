@@ -1,6 +1,6 @@
 ﻿{
-	"name": "frutas",
-	"short_name": "frutas",
+	"name": "Frutrix",
+	"short_name": "Frutrix",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
