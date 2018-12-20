@@ -7,9 +7,9 @@ Raíssa dos Santos, 16 anos.
 
 ## Site para projetos de jogos.
 
-<a href="http://raixasantos.github.io/Flamba/" target="_blank"> teste </a>
+<a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a>
 
-<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> teste </a>
+<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>
 
 <a href="http://raixasantos.github.io/ForU/" target="_blank"> teste </a>
 
