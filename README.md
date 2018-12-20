@@ -9,9 +9,9 @@ Raíssa dos Santos, 16 anos.
 
 <a href="http://raixasantos.github.io/Flamba/" target="_blank"> </a>
 
-raixasantos.github.io/AstralPlane/
+<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> </a>
 
-raixasantos.github.io/ForU/
+<a href="http://raixasantos.github.io/ForU/" target="_blank"> </a>
 
 <a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg"> [LARANJINHAS] </a>
 
