@@ -1,5 +1,6 @@
 # MEU PORTFÓLIO
-Raíssa dos Santos, 16 anos.
+Raíssa dos Santos, 16 anos. 
+Programando com a força do ódio há 2 anos.
 
 ![imagem1](coragem.jpg)
 
@@ -13,6 +14,6 @@ Raíssa dos Santos, 16 anos.
 
 <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
 
-<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg) </a>
+<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [[LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
 
 <a href="www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
