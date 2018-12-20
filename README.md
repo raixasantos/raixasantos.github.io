@@ -1,6 +1,5 @@
 # MEU PORTFÓLIO
 Raíssa dos Santos, 16 anos. 
-Programando com a força do ódio há 2 anos.
 
 ![imagem1](coragem.jpg)
 
