@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545240188,
+	"version": 1545917981,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/sfundo-sheet0.png",
 		"images/squadro-sheet0.png",
 		"images/bsom-sheet0.png",
+		"media/minigamemusic.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
