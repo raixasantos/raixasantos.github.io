@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545241171,
+	"version": 1545923503,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,11 +30,14 @@
 		"images/smenu-sheet0.png",
 		"images/sbotoes-sheet0.png",
 		"images/sfundo-sheet0.png",
+		"images/icantina-sheet0.png",
+		"images/ipredio-sheet0.png",
 		"media/mattoglseby - 1.ogg",
 		"media/pop.m4a",
 		"media/pop.ogg",
 		"media/trumpet.m4a",
 		"media/trumpet.ogg",
+		"media/backgroundgame.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
