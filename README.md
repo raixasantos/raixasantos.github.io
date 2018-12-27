@@ -1,7 +1,6 @@
 # MEU PORTFÓLIO
 Raíssa dos Santos, 16 anos. 
-
-![imagem1](coragem.jpg)
+![imagem2](IMG_20191227.png)
 
 <a href="http://coragem.com.br" target="_blank"> [![imagem1](coragem.jpg)] </a>
 
