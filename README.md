@@ -23,7 +23,7 @@
 
 
 
-<a href="https://www.instagram.com/raissajpereira/" target="_blank"> ![instagram](https://raixasantos.github.io/instagram.png) </a>raissajpereira
+<a href="https://www.instagram.com/raissajpereira/" target="_blank"> ![instagram](https://raixasantos.github.io/instagram.png) </a> raissajpereira
 
-![gmail](gmail.png) raixapsantos@gmail.com
+![gmail](gmail.png)  raixapsantos@gmail.com
 
