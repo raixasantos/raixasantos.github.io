@@ -14,21 +14,8 @@
 
 <a href="https://raixasantos.github.io/astralplane.png" target="_blank"> ![astralplane](https://raixasantos.github.io/astralplane.png) </a>
 
-<a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
+  - <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
+
+<a href="https://raixasantos.github.io/instagram.png" target="_blank"> ![instagram](https://www.instagram.com/raissajpereira/) </a>
 
 
-
-
-
-
-<dt>Jogos produzidos na disciplina de Oficina de Criação.</dt>
-  
-
-
-
-
-<a href="http://coragem.com.br" target="_blank"> Coragem em pessoa ![imagem1](coragem.jpg) </a>
-
-<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg) </a>
-
-<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> ![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg) </a>
