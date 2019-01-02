@@ -1,16 +1,28 @@
 # QUEM É A DOIDA?
-Raíssa dos Santos, 17 anos. 
-![imagem2](IMG_20191227.png)
 
-<a href="http://coragem.com.br" target="_blank"> [![imagem1](coragem.jpg)] </a>
+![imagem2](perfil.png)
 
-## Site para projetos de jogos.
+My name é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jojos digitais no IFRN, campus Ceará - Mirim. 
+
+## Jogos produzidos na disciplina de Oficina de Criação.
 
 <a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a>
 
 <a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>
 
 <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://coragem.com.br" target="_blank"> em pessoa [![imagem1](coragem.jpg)] </a>
 
 <a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [[LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
 
