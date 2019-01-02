@@ -2,7 +2,7 @@
 
 ...![imagem2](perfil.png)
 
-> My name é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jojos digitais no IFRN, campus Ceará - Mirim. 
+> Meu name é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jojos digitais no IFRN, campus Ceará - Mirim. 
 
 ## *Jogos produzidos na disciplina de Oficina de Criação.
 
