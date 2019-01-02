@@ -1,6 +1,6 @@
 # QUEM É A DOIDA?
 
-                                ![imagem2](perfil.png)
+   ![imagem2](perfil.png)
 
 > Meu nome é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jogos digitais no IFRN, campus Ceará - Mirim. 
 
