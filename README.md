@@ -1,10 +1,10 @@
-#QUEM É A DOIDA?
+# QUEM É A DOIDA?
 
 ⋅⋅⋅![imagem2](perfil.png)
 
 > Meu nome é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jogos digitais no IFRN, campus Ceará - Mirim. 
 
-##Jogos produzidos na disciplina de Oficina de Criação.
+## Jogos produzidos na disciplina de Oficina de Criação.
 
 <a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a>
 
