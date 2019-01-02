@@ -16,6 +16,6 @@
 
   - <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
 
-<a href="https://raixasantos.github.io/instagram.png" target="_blank"> ![instagram](https://www.instagram.com/raissajpereira/) </a>
+<a href="https://www.instagram.com/raissajpereira/" target="_blank"> ![instagram](https://raixasantos.github.io/instagram.png) </a>
 
 
