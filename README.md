@@ -6,8 +6,8 @@
 
 
   <dt>Jogos produzidos na disciplina de Oficina de Criação.</dt>
-  <dd>Flamba precisa manter sua temperatura até chegar no iglu para esquentar seus moradores!!</dd>
-  <a href="http://raixasantos.github.io/Flamba/" target="_blank">  </a>
+  <dd><a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a> precisa manter sua temperatura até chegar no iglu para esquentar seus moradores!!</dd>  
+
 
 ## Jogos produzidos na disciplina de Oficina de Criação.
 
@@ -30,4 +30,4 @@
 
 <a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [[LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
 
-<a href="www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
+<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
