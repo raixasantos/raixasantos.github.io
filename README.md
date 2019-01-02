@@ -27,8 +27,8 @@
 
 
 
-<a href="http://coragem.com.br" target="_blank"> Coragem em pessoa [![imagem1](coragem.jpg)] </a>
+<a href="http://coragem.com.br" target="_blank"> Coragem em pessoa ![imagem1](coragem.jpg) </a>
 
-<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [[LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
+<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [LARANJINHAS](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg) </a>
 
-<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> [![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg)] </a>
+<a href="https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg" target="_blank"> ![LARANJA](https://www.estudopratico.com.br/wp-content/uploads/2017/11/laranja-caixa-cor-alaranjado.jpg) </a>
