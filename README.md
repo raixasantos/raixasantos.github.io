@@ -10,8 +10,9 @@
 
 <a href="https://raixasantos.github.io/flamba.png" target="_blank"> ![flamba](https://raixasantos.github.io/flamba.png) </a>
 
+Em um outro plano, venha desvendar enigmas para derrotar o monstro. Em <a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>.
 
-<a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>
+<a href="https://raixasantos.github.io/astralplane.png" target="_blank"> ![astralplane](https://raixasantos.github.io/astralplane.png) </a>
 
 <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
 
