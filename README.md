@@ -7,10 +7,10 @@
 
   <dt>Jogos produzidos na disciplina de Oficina de Criação.</dt>
   <dd>Flamba precisa manter sua temperatura até chegar no iglu para esquentar seus moradores!!</dd>
-  
+  <a href="http://raixasantos.github.io/Flamba/" target="_blank">  </a>
+
 ## Jogos produzidos na disciplina de Oficina de Criação.
 
-<a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a>
 
 <a href="http://raixasantos.github.io/AstralPlane/" target="_blank"> Astral Plane </a>
 
