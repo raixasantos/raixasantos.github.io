@@ -4,7 +4,7 @@
 
 > Meu nome é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jogos digitais no IFRN, campus Ceará - Mirim. 
 
-## Jogos produzidos na disciplina de Oficina de Criação.
+## Jogos desenvolvidos na disciplina de Oficina de Criação.
 
   - <a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a> precisa manter sua temperatura até chegar no iglu para esquentar seus moradores.
 
@@ -24,5 +24,6 @@
 
 
 <a href="https://www.instagram.com/raissajpereira/" target="_blank"> ![instagram](https://raixasantos.github.io/instagram.png) </a>raissajpereira
-![gmail](gmail.png)
+
+![gmail](gmail.png) raixapsantos@gmail.com
 
