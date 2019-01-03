@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546510276,
+	"version": 1546513471,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,10 @@
 		"images/tinstrucoes-sheet0.png",
 		"images/sfundome-sheet0.png",
 		"images/inomejogo-sheet0.png",
+		"images/créditos-sheet0.png",
+		"images/fim2-sheet0.png",
+		"media/tremloadingloopl.m4a",
+		"media/tremloadingloopl.ogg",
 		"penumbra.png"
 	]
 }
