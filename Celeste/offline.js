@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546513471,
+	"version": 1546516657,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,8 @@
 		"images/sfundo-sheet0.png",
 		"images/bjogador-sheet0.png",
 		"images/ipersonagem-sheet0.png",
+		"images/ipersonagem-sheet1.png",
+		"images/ipersonagem-sheet2.png",
 		"images/ichão-sheet0.png",
 		"images/iobstaculo-sheet0.png",
 		"images/ibotãogravidade-sheet0.png",
@@ -41,6 +43,8 @@
 		"images/inomejogo-sheet0.png",
 		"images/créditos-sheet0.png",
 		"images/fim2-sheet0.png",
+		"images/final1-sheet0.png",
+		"images/final2-sheet0.png",
 		"media/tremloadingloopl.m4a",
 		"media/tremloadingloopl.ogg",
 		"penumbra.png"
