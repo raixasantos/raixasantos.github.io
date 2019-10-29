@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572309608,
+	"version": 1572313941,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,7 @@
 		"images/fundocaverninha-sheet0.png",
 		"images/imgstalactites-sheet0.png",
 		"images/sensorrio-sheet0.png",
+		"images/cavernalayerout.png",
 		"images/obloco-sheet0.png",
 		"images/spersonagem-sheet0.png",
 		"images/spersonagem-sheet1.png",
@@ -60,6 +61,7 @@
 		"images/ecamera-sheet0.png",
 		"images/sensorpersonagem-sheet0.png",
 		"images/overlapbloco-sheet0.png",
+		"images/pedropoder-sheet0.png",
 		"images/sraserpente-sheet0.png",
 		"images/sraserpente-sheet1.png",
 		"images/sensorinimigo-sheet0.png",
@@ -81,7 +83,6 @@
 		"images/spoderdeenergiazinho-sheet1.png",
 		"images/ibarraenergia-sheet0.png",
 		"images/ibarraenergia2-sheet0.png",
-		"images/pedrahud-sheet0.png",
 		"images/imapadeescolha-sheet0.png",
 		"images/bescolha-sheet0.png",
 		"images/bescolha-sheet1.png",
@@ -90,7 +91,6 @@
 		"images/bpause-sheet0.png",
 		"images/bmenu-sheet0.png",
 		"images/bok-sheet0.png",
-		"images/cavernalayerout.png",
 		"media/click.m4a",
 		"media/click.ogg",
 		"media/jumpayodele.m4a",
