@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572313941,
+	"version": 1572400291,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/cercas-sheet0.png",
 		"images/iceu2-sheet0.png",
 		"images/ppedra.png",
+		"images/montanhas-sheet0.png",
 		"images/barradialogo-sheet0.png",
 		"images/barraicone-sheet0.png",
 		"images/barraicone-sheet1.png",
@@ -34,7 +35,6 @@
 		"images/schaonaosolido-sheet0.png",
 		"images/schaonaosolido2-sheet0.png",
 		"images/iceufundo-sheet0.png",
-		"images/montanhas-sheet0.png",
 		"images/morros-sheet0.png",
 		"images/morros2-sheet0.png",
 		"images/sensorfase-sheet0.png",
