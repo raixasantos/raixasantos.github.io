@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573521535,
+	"version": 1573665170,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -101,6 +101,9 @@
 		"media/click.ogg",
 		"media/jumpayodele.m4a",
 		"media/jumpayodele.ogg",
+		"media/som_menu&outros.ogg",
+		"media/som_primeirafase.ogg",
+		"media/som_segundafase.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
