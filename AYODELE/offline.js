@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573665170,
+	"version": 1573694395,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,9 +16,11 @@
 		"images/iceu-sheet0.png",
 		"images/casa-sheet0.png",
 		"images/cercas-sheet0.png",
+		"images/pcheck.png",
 		"images/iceu2-sheet0.png",
 		"images/ppedra.png",
 		"images/montanhas-sheet0.png",
+		"images/pvida.png",
 		"images/schao-sheet0.png",
 		"images/sarvore-sheet0.png",
 		"images/sarvore-sheet1.png",
@@ -37,6 +39,7 @@
 		"images/espinhos-sheet0.png",
 		"images/blocoempurrar-sheet0.png",
 		"images/chaoapoio-sheet0.png",
+		"images/chaoapoio-sheet1.png",
 		"images/chaonaosolidotile.png",
 		"images/riomap.png",
 		"images/obsttronco-sheet0.png",
