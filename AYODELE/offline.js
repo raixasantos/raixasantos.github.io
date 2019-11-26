@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574271365,
+	"version": 1574732708,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -82,8 +82,7 @@
 		"images/palimento.png",
 		"images/salimento-sheet0.png",
 		"images/imapadeescolha-sheet0.png",
-		"images/bescolha-sheet0.png",
-		"images/bescolha-sheet1.png",
+		"images/sensorescolha-sheet0.png",
 		"images/iblack-sheet0.png",
 		"images/fundopreto-sheet0.png",
 		"images/bpause-sheet0.png",
@@ -99,7 +98,6 @@
 		"images/bdialogar-sheet0.png",
 		"images/tvisudialogos-sheet0.png",
 		"images/brestart-sheet0.png",
-		"images/bproxnivel-sheet0.png",
 		"images/basetela-sheet0.png",
 		"media/click.m4a",
 		"media/click.ogg",
