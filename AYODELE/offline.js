@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574893930,
+	"version": 1574909330,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -104,6 +104,9 @@
 		"images/ifundofinal-sheet0.png",
 		"images/tpular-sheet0.png",
 		"images/tandar-sheet0.png",
+		"images/sensortdetutorial-sheet0.png",
+		"images/tdano-sheet0.png",
+		"images/bescolhadefases-sheet0.png",
 		"media/click.m4a",
 		"media/click.ogg",
 		"media/jumpayodele.m4a",
