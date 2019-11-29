@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574909330,
+	"version": 1574993044,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -98,6 +98,7 @@
 		"images/sensordialogo-sheet0.png",
 		"images/bdialogar-sheet0.png",
 		"images/tvisudialogos-sheet0.png",
+		"images/blurdialogo-sheet0.png",
 		"images/brestart-sheet0.png",
 		"images/basetela-sheet0.png",
 		"images/telafinalfonte.png",
