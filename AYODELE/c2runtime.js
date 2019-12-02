@@ -26541,16 +26541,16 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Arr,
-	cr.plugins_.Audio,
 	cr.plugins_.Keyboard,
-	cr.plugins_.Mouse,
 	cr.plugins_.Particles,
+	cr.plugins_.Mouse,
 	cr.plugins_.Function,
 	cr.plugins_.Sprite,
+	cr.plugins_.SpriteFontPlus,
 	cr.plugins_.Tilemap,
 	cr.plugins_.Text,
-	cr.plugins_.SpriteFontPlus,
+	cr.plugins_.Arr,
+	cr.plugins_.Audio,
 	cr.behaviors.Sin,
 	cr.behaviors.jumpthru,
 	cr.behaviors.solid,
