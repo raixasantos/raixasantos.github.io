@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1575327862,
+	"version": 1575336721,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,7 @@
 		"images/tdano-sheet0.png",
 		"images/tvidacompleta-sheet0.png",
 		"images/tcoletar-sheet0.png",
+		"images/tusarpedra-sheet0.png",
 		"images/imgstalactites-sheet0.png",
 		"images/imgstalactites-sheet1.png",
 		"images/cavernalayerout.png",
@@ -66,6 +67,8 @@
 		"images/sraserpente-sheet0.png",
 		"images/sensorinimigo-sheet0.png",
 		"images/capitaodomato-sheet0.png",
+		"images/capitaodomato-sheet1.png",
+		"images/capitaodomato-sheet2.png",
 		"images/ibalacm-sheet0.png",
 		"images/gabiru-sheet0.png",
 		"images/gabiru-sheet1.png",
