@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1575476292,
+	"version": 1576256967,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -65,6 +65,7 @@
 		"images/pcheck.png",
 		"images/ppedra.png",
 		"images/sraserpente-sheet0.png",
+		"images/sraserpente-sheet1.png",
 		"images/sensorinimigo-sheet0.png",
 		"images/capitaodomato-sheet0.png",
 		"images/capitaodomato-sheet1.png",
@@ -77,6 +78,7 @@
 		"images/piranha-sheet0.png",
 		"images/piranha-sheet1.png",
 		"images/cobras-sheet0.png",
+		"images/cobras-sheet1.png",
 		"images/cutinicial-sheet0.png",
 		"images/cutinicial-sheet1.png",
 		"images/cutinicial-sheet2.png",
@@ -114,6 +116,7 @@
 		"images/basetela-sheet0.png",
 		"images/telafinalfonte.png",
 		"images/ifundofinal-sheet0.png",
+		"images/chaoareia-sheet0.png",
 		"media/click.m4a",
 		"media/click.ogg",
 		"media/jumpayodele.m4a",
