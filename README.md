@@ -2,9 +2,9 @@
 
    ![imagem2](perfil.png)
 
-> Meu nome é Raíssa dos Santos, tenho 17 anos, estou cursando Programação de jogos digitais no IFRN, campus Ceará - Mirim. 
+> Meu nome é Raíssa dos Santos, tenho 18 anos, sou técnica em Programação de jogos digitais pelo IFRN, campus Ceará - Mirim. 
 
-## Jogos desenvolvidos na disciplina de Oficina de Criação.
+## Jogos desenvolvidos na disciplina de Oficina de Criação (ano 2018).
 
   - <a href="http://raixasantos.github.io/Flamba/" target="_blank"> Flamba </a> precisa manter sua temperatura até chegar no iglu para esquentar seus moradores.
 
