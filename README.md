@@ -14,16 +14,19 @@
 
 <a href="https://raixasantos.github.io/astralplane.png" target="_blank"> ![astralplane](https://raixasantos.github.io/astralplane.png) </a>
 
-  - <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a>
+  - Ajude o seu brinquedo que faria tudo <a href="http://raixasantos.github.io/ForU/" target="_blank"> Por Você </a> e entre nessa aventura!
   
-<a href="https://raixasantos.github.io/porvocê.png" target="_blank"> ![aporvocê](https://raixasantos.github.io/porvocê.png) </a>
+<a href="https://raixasantos.github.io/porvocê.png" target="_blank"> ![porvocê](https://raixasantos.github.io/porvocê.png) </a>
+
+  - <a href="http://raixasantos.github.io/LARISSAEOSALIMENTOS/" target="_blank"> Larissa e os Alimentos </a> 
+  
+<a href="https://raixasantos.github.io/larissaeosalimentos.png" target="_blank"> ![larissa](https://raixasantos.github.io/larissaeosalimentos.png) </a>
+
+- <a href="http://raixasantos.github.io/AYODELE/" target="_blank"> Ayodele: Em busca da Costa Amarela </a>  
+  
+<a href="https://raixasantos.github.io/ayodele.png" target="_blank"> ![ayodele](https://raixasantos.github.io/ayodele.png) </a>
 
 
 
-
-
-
-<a href="https://www.instagram.com/raissajpereira/" target="_blank"> ![instagram](https://raixasantos.github.io/instagram.png) </a> raissajpereira
 
 ![gmail](gmail.png)  raissajpereirasantos@gmail.com
-
