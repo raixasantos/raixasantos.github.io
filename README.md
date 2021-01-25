@@ -2,7 +2,7 @@
 
    ![imagem2](perfil.png)
 
-> Meu nome é Raíssa dos Santos, tenho 18 anos, sou técnica em Programação de jogos digitais pelo IFRN, campus Ceará - Mirim. 
+> Meu nome é Raíssa dos Santos, tenho 19 anos, sou técnica em Programação de jogos digitais pelo IFRN, campus Ceará - Mirim. Atualmente, estou graduando em Tecnologia da Informação pela UFRN.
 
 ## Jogos desenvolvidos na disciplina de Oficina de Criação (ano 2018).
 
